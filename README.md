@@ -1,3 +1,3 @@
 # fnsites
 
-This is Django based FN sites
+This is Django based FN sites.
